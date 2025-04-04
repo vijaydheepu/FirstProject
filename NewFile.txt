@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 a=15
+=======
+a=22
+>>>>>>> 0766e7ac1613cd2f6b7d0ad753c0f7a20a79ba6a
 b=2
 print(a+b)
